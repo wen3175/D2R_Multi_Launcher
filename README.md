@@ -1,5 +1,8 @@
 # D2R_Multi_Launcher
-Diablo II Resurrected Multi-opener, Very easy to use。暗黑2重置版多开器，支持最新的第四赛季
+Diablo II Resurrected Multi-opener, Very easy to use。
+No need for third-party tools such as procexp64, handle64, etc., no need to make multiple copies of the game (unbearable)
+暗黑2重置版多开器，支持最新的第四赛季
+无需第三方工具例如procexp64，handle64等，无需拷贝多份游戏（难以忍受）
 
 使用方法
 下载后解压，编辑account.txt，修改成你自己的D2R账号和密码
